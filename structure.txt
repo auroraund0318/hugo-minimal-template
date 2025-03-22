@@ -1,0 +1,45 @@
+フォルダー パスの一覧:  ボリューム Windows
+ボリューム シリアル番号は 00000193 06E3:04CD です
+C:.
+│  .hugo_build.lock
+│  hugo.toml
+│  structure.txt
+│  
+├─archetypes
+│      default.md
+│      
+├─assets
+├─content
+│  └─blog
+│          first-post.md
+│          _index.md
+│          
+├─data
+├─i18n
+├─layouts
+│  │  baseof.html
+│  │  single.html
+│  │  
+│  ├─blog
+│  │      list.html
+│  │      
+│  └─_default
+├─public
+│  │  index.html
+│  │  index.xml
+│  │  sitemap.xml
+│  │  
+│  ├─blog
+│  │      index.html
+│  │      index.xml
+│  │      
+│  ├─categories
+│  │      index.html
+│  │      index.xml
+│  │      
+│  └─tags
+│          index.html
+│          index.xml
+│          
+├─static
+└─themes
