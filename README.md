@@ -20,4 +20,4 @@ hugo server -D
 
 ## 📄 License
 
-MIT © Your Name
+MIT © auroraund0318
